@@ -1,0 +1,10 @@
+Package: RizzoEDA
+Type: Package
+Title: Auxilia na realização da AED.
+Version: 0.1.0
+Author: André Rizzo
+Maintainer: André Rizzo <andrerizzo@hotmail.com>
+Description: Auxilia na realização da AED.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
