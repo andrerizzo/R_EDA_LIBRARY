@@ -1,20 +1,14 @@
-\name{detecta_outlier_teste_rosner}
-\alias{detecta_outlier_teste_rosner}
+\name{analise_numerica_var_discreta}
+\alias{analise_numerica_var_discreta}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-  Detecta a existência de outliers
+Calcula medidas resumo para variáveis numéricas discretas.
 }
 \description{
-  A função busca a existência de outliers e também relaza a transformação de
-  variáveis de modo automatizado.
+Calcula, moda, valores únicos, máximo e mínimo.
 }
 \usage{
-detecta_outlier_teste_rosner(dataframe,
-                             variavel,
-                             dataframe_variavel,
-                             uso_orderNorm,
-                             uso_exponencial,
-                             uso_outsample)
+analise_numerica_var_discreta(dataframe$variavel)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
