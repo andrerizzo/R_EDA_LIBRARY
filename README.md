@@ -11,8 +11,9 @@ R Library to perform Exploratory Data Analysis
 ### Details  
 - *analise_valores_faltantes* : check if there are missing values in each dataset variable.  
 - *analise_numerica_var_continua* : calculate measusres of position, spread, assimetry and kurtosis.  
-- *histograma* : plot histogram using Ggplot2.  
-- *box_plot* : draw box-plot using Ggplot2.  
+- *histograma* : plot histogram using Ggplot2.
+- *density_plot* : plot density graph using Ggplot2.
+- *box_plot* : plot box-plot using Ggplot2.  
 - *teste_normalidade_shapiro* : perform Shapiro-Wilk test to check normallity hypothesis.  
 - *teste_normalidade_anderson_darling* : perform Anderson-Darling test to check normallity hypothesis.
 - *qqplot* : draw qqplot to perform graphical identification of normallity hypothesis.
